@@ -1,2 +1,2 @@
-# paystack
-Paystack API Implementation
+# payment
+Payment API Implementations
